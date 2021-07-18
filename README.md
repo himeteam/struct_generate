@@ -1,0 +1,2 @@
+# struct_generate
+xxxx
